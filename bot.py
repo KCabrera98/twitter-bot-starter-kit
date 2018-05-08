@@ -1,5 +1,6 @@
 """
 This is a bot that takes news headlines and casually rewrites them
+Still a WIP
 """
 #Import all tools to be needed / Create dictionary to replace words
 #To make the replacements to the string
