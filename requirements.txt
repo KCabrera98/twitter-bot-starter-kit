@@ -1,2 +1,4 @@
 tweepy==3.5.0
 feedparser==5.2.1
+pip3 install tweepy
+pip3 install feedparser
